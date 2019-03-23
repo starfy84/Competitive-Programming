@@ -1,3 +1,6 @@
+#include <bits/stdc++.h>
+using namespace std;
+
 void helper(vector<char>& s,int i){
     if(i<s.size()/2){
         char temp = s[i];
