@@ -1,0 +1,1 @@
+print "This is a ", 0 ? "Ruby" : "Perl", " program."
